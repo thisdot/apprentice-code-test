@@ -13,4 +13,3 @@ Welcome to the apprentice program code test! We are so excited your interest to 
 ### Bonus Goals
 
 - Add any tests you feel are missing
-- Create a PR back to this repository with the fixes
